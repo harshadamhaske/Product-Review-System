@@ -1,0 +1,1 @@
+Product Review System is a web-based platform that allows users to rate and review products. Built using HTML, CSS, JavaScript, PHP, and MySQL, it helps customers make informed decisions and enables businesses to improve their offerings based on user feedback. The system ensures secure authentication, real-time review updates, and data validation for a seamless user experience.
